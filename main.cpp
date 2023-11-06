@@ -9,7 +9,7 @@
 
 #include "thread_safe_queue.h"
 
-constexpr long long g_main_sleep_ms = 1000;
+constexpr long long g_main_sleep_ms = 30000;
 
 namespace 
 {
